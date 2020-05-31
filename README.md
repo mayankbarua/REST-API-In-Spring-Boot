@@ -3,7 +3,7 @@ Implementation of Rest API in Spring Boot with Redis as key-value store, Elastic
 
 ## Requirement
 1. Elastic Search
-1. Kafka
+1. Kafka and ZooKeeper 
 1. Kibana 
 
 
